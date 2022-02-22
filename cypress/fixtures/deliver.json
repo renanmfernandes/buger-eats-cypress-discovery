@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Renan Fernandes",
+        "cpf": "00000014141",
+        "email": "renan@gmail.com",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number": "500",
+            "details": "Casa fundos",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Lucas Viera",
+        "cpf": "0000001ssd1",
+        "email": "lucas@gmail.com",
+        "whatsapp": "11999879999",
+        "address":{
+            "postalcode": "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number": "500",
+            "details": "Casa fundos",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Renan Fernandes",
+        "cpf": "00000014141",
+        "email": "renan.com",
+        "whatsapp": "11999999999",
+        "address":{
+            "postalcode": "04534011",
+            "street":  "Rua Joaquim Floriano",
+            "number": "500",
+            "details": "Casa fundos",
+            "district": "Itaim Bibi",
+            "city_uf": "São Paulo/SP"
+        },
+        "method_delivery": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
